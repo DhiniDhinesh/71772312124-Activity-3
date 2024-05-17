@@ -1,0 +1,4 @@
+original_list = [1, 2, 3, 4, 5]
+multiplier = 2
+result_list = [element * multiplier for element in original_list]
+print(result_list)
